@@ -1,1 +1,3 @@
+Sumatra has over 50% agricultural land, mainly for rice, with other crops like maize, peanuts, and cassava. Climate change impacts planting patterns, yield, and quality. We aim to build predictive models using supervised learning methods like decision trees and neural networks to address this.
 
+The dataset will include the following variables: Harvest Area, Rainfall, Humidity, Average Temperature, and Province. Data will be sourced from BPS for rice production in 8 Sumatra provinces (NAD, North Sumatra, Riau, Jambi, South Sumatra, Bengkulu, and Lampung) from 1993 to 2020. Climate data (daily rainfall, humidity, and temperature) will be obtained from BMKG for the same period.
