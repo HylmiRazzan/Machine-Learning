@@ -1,1 +1,1 @@
-
+Multivariate logistic regression is a statistical approach that determines how a set of different factors works together to predict a specific outcome, like a "yes" or "no" result. Instead of looking at just one influence at a time, it calculates the impact of each variable whether it's a number, a category, or a mix of both, while making sure to account for all the other factors in the mix. Essentially, it helps us understand the true "weight" of each piece of information in determining the likelihood of an event happening.
