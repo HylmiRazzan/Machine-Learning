@@ -1,1 +1,1 @@
-
+This project explores a comprehensive dataset of residential properties to identify the key drivers of housing market valuations. By leveraging various property attributes, the goal is to conduct in-depth exploratory data analysis (EDA) and develop robust predictive models capable of estimating property prices with high accuracy.
