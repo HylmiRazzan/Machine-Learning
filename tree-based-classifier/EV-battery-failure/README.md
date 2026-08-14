@@ -1,1 +1,1 @@
-This code includes: Decision Tree, RandomForest, LGBM, XGB
+This project explores a comprehensive dataset of electric vehicle (EV) batteries to identify the key drivers of battery failure. By leveraging various physical, usage, and environmental attributes, the goal is to conduct in-depth exploratory data analysis (EDA) and develop robust predictive models capable of detecting potential battery failures with a high recall rate.
