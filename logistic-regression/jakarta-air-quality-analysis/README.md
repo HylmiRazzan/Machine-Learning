@@ -33,8 +33,6 @@ Performa model pada data uji mencatatkan hasil sebagai berikut:
 *   **Akurasi Keseluruhan:** 64.68% (0.65)
 *   **ROC-AUC Score (Macro OvR):** 0.8855
 
-## 5. Visualisasi Interaktif Power BI & Kesimpulan
-
 ## 5. Visualisasi Interaktif Power BI, Kelayakan Deploy, & Kesimpulan
 
 Selain pemodelan prediktif berbasis Python, proyek ini juga dilengkapi dengan dasbor visualisasi interaktif menggunakan **Power BI** untuk mengeksplorasi tren kualitas udara harian, sebaran polutan berdasarkan stasiun pemantauan, serta perbandingan tingkat polusi secara visual di wilayah DKI Jakarta.
